@@ -1,6 +1,6 @@
 # CorLog++: e-mail and document archiving program, written in Excel VBA
 
-CorLog++ is a simple archiving solution for WT e-mail, memos, and documents.  It allows you extract e-mail from Outlook and create a database of hyperlinked documents and all related infomration.
+CorLog++ is a simple archiving solution for WT e-mail, memos, and documents.  Extract e-mail from directly from Outlook and create a database of hyperlinked documents with all related information.
 
 ## Here are a few features of the program:
 
